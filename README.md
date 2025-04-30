@@ -28,3 +28,4 @@ The e-commerce sample application illustrates common use cases and best practice
 
 [README](retail/retail-java-applications/README.MD)
 
+test
